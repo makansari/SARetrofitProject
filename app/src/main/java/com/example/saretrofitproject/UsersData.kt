@@ -1,6 +1,6 @@
 package com.example.saretrofitproject
 
-class UsersData(
+data class UsersData(
     var name:String,
     var username : String,
     var email : String
